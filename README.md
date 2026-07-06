@@ -6,7 +6,7 @@ Este repositorio reúne revisiones prácticas de páginas web, formularios y ser
 
 ## Objetivo
 
-Detectar problemas reales de uso и proponer mejoras claras, concretas y priorizadas.
+Detectar problemas reales de uso y proponer mejoras claras, concretas y priorizadas.
 
 ## Estructura de cada auditoría
 
